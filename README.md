@@ -9,3 +9,4 @@ Implementing this algo over text8 corpus, which is the first billion words in wi
 - Go over the entire corpus
 - Vectorise it maybe
 - increase negative samples size?
+- batching for efficiency
